@@ -1,0 +1,136 @@
+{
+	"albums": [
+		{
+			"id": 1,
+			"name": "Architecture",
+			"coverphoto_url": "http://www.architecturalrecord.com/ext/resources/Issues/2016/May/1605-Architecture-Creativity-wHY-Louisville-Speed-Art-Museum-01.jpg",
+			"photos": [
+				{
+					"id":1.1,
+					"name": "Roof",
+					"gallery": "https://ntuyoufirstadbe.files.wordpress.com/2016/01/free-architecture-and-design-film-festival-los-angeles.jpg"
+				},
+				{
+					"id":1.2,
+					"name": "Familia",
+					"gallery":"https://s-media-cache-ak0.pinimg.com/originals/13/98/de/1398dedff7680d42c8436d99df8e11d9.jpg"
+				},
+				{
+					"id":1.3,
+					"name":"Home",
+					"gallery":"http://cdn.freshome.com/wp-content/uploads/2014/06/architecture-modern-house-California.jpg"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Fashion",
+			"coverphoto_url": "https://s-media-cache-ak0.pinimg.com/736x/40/4a/8d/404a8d3e2441767655655d26e40e6246.jpg",
+			"photos": [
+				{
+					"id":2.1,
+					"name":"Blazer",
+					"gallery":"http://www.escritoresnicaragua.com/wp-content/uploads/2015/04/hipster-fashion-2015.jpg"
+				},
+				{
+					"id":2.2,
+					"name":"Jumper",
+					"gallery":"http://outfitideashq.com/wp-content/uploads/2014/07/mens-suspenders-fashion-24.jpg"
+				},
+				{
+					"id":2.3,
+					"name":"Suit",
+					"gallery":"https://s-media-cache-ak0.pinimg.com/564x/6e/c5/83/6ec583ac6551661887fb4b724087da5f.jpg"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Film Image",
+			"coverphoto_url": "https://cdn4.goabroad.com/images/program_content/so-you-want-to-work-abroad-as-a-freelance-journalist-1-1468921236.jpg",
+			"photos": [
+				{
+					"id":3.1,
+					"name":"Equipment",
+					"gallery":"http://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/c139.0.794.794/12930929_1002817239807673_84323666_n.jpg?ig_cache_key=MTIzMjUxNzcwNDI1NjA3NTAzMA%3D%3D.2.c"
+				},
+				{
+					"id":3.2,
+					"name":"Friends",
+					"gallery":"http://1cqgxm3l59yi2wwbnn3qy35h.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/Monicas-apartment-set-design-on-Friends.jpg"
+				},
+				{
+					"id":3.3,
+					"name":"Director",
+					"gallery":"http://80.82.120.87/assets/components/phpthumbof/cache/director%27s-viewfinder-L1.9d6fdeb3765b2556e15c4a8dd455c607497.jpg"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Food",
+			"coverphoto_url": "http://hyhoi.com/wp-content/uploads/2014/11/f-three-eight-four-385-coldharbour-lane-brixton-cocktail-bar-restaurant-hipster-industrial-small-plates-ping-pong-food.jpg",
+			"photos": [
+				{
+					"id":4.1,
+					"name":"Carrot",
+					"gallery":"https://s-media-cache-ak0.pinimg.com/originals/d2/41/d2/d241d22f1a6385f17a33df32fffaeea5.jpg"
+				},
+				{
+					"id":4.2,
+					"name":"Caviar",
+					"gallery":"http://www.hotelmousai.com/blog/wp-content/uploads/2016/08/top-10-gourmet-dishes-at-hotel-mousai.jpg"
+				},
+				{
+					"id":4.3,
+					"name":"Shrimp",
+					"gallery":"https://s-media-cache-ak0.pinimg.com/originals/b8/35/9e/b8359e17aa4fec70c42ea58d5fa00115.jpg"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Interior",
+			"coverphoto_url": "http://cdn.home-designing.com/wp-content/uploads/2016/01/black-living-room-accent-colors-300x250.jpg",
+			"photos": [
+				{
+					"id":5.1,
+					"name":"Room",
+					"gallery":"http://cdn.home-designing.com/wp-content/uploads/2016/02/orange-and-black-interior-artwork-ideas.jpg"
+				},
+				{
+					"id":5.2,
+					"name":"Stairs",
+					"gallery":"https://images-na.ssl-images-amazon.com/images/I/91VwILj26CL.jpg"
+				},
+				{
+					"id":5.3,
+					"name":"Shelves",
+					"gallery":"http://www.elevationinterior.com/images/services/office-interior-designers-in-mumbai-2-big.jpg"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Travel",
+			"coverphoto_url": "https://s-media-cache-ak0.pinimg.com/564x/b9/91/52/b9915245a08a1e9acc88c23c0aadf98f.jpg",
+			"photos": [
+				{
+					"id":6.1,
+					"name":"Suitcase",
+					"gallery":"http://www.lifeadvancer.com/wp-content/uploads/2016/01/Remarkable-Changes-After-Traveling.jpg"
+				},
+				{
+					"id":6.2,
+					"name":"Roadtrip",
+					"gallery":"http://images.huffingtonpost.com/2015-03-20-1426853494-9761329-iStock_000026246607_Large.jpg"
+				},
+				{
+					"id":6.3,
+					"name":"Hike",
+					"gallery":"http://www.moneysense.ca/wp-content/uploads/2016/03/Traveling-solo.jpg"
+				}
+			]
+		}
+	]
+}

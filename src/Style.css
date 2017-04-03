@@ -1,0 +1,51 @@
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+h1 {
+	border: 1px solid black;
+	height:100px;
+	line-height: 100px;
+	text-indent: 500px;
+	background-color: gray;
+}
+.Albums li img, .AlbumsRow2 li img {
+	height:340px;
+	width:270px;
+	margin-left: 55%;
+}
+.Albums li, .AlbumsRow2 li {
+	list-style: none;
+	float:left;
+	margin:5px;
+}
+.AlbumsRow2 {
+	margin-top: 35%;
+}
+#album4 img {
+	height:340px;
+	width: 268px;
+}
+#album5 img {
+	height: 340px;
+	width:268px;
+}
+#album6 img {
+	height:340px;
+	width:268px;
+}
+button { 
+	background-color: white;
+	width:135px;
+	height:30px;
+	margin: 35px;
+	display:block;
+	margin-left: 5%;
+}
+#albumlist {
+	border:1px solid black;
+	width: 150px;
+	height:430px; 
+	background-color: gray;
+	margin-left: 4%;
+}
+

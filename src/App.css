@@ -17,3 +17,19 @@ img {
 * {
 	background-color:#f8f8fa;
 }
+.albumNav {
+
+	list-style: none;
+	border:1px solid black;
+	height:40px;
+	width:120px;
+	line-height: 40px;
+	text-align: center;
+}
+li {
+	font-family: Verdana;
+	background-color:#d2d4dc;
+}
+#pics {
+	margin-left:10%;
+}

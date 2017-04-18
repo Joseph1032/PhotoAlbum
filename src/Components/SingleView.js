@@ -1,23 +1,27 @@
 import React from 'react'
 import AlbumData from './data.json'
 
-export default React.createClass({
-	getInitialState() {
-		return {
-		album: AlbumData.albums.photo.filter(photo=>{
+class Single extends React.Component {
+	constructor(props) {
+		super(props)
+		this.state = {
+			photo:AlbumData.photos.filter(photo =>{
 				return Number(photo.id) === Number(this.props.match.params.photoId)
 			})[0]
-		} 
-	},
+		}
+	}
+	handleBack = (e) => {
+		e.preventDefault()
+		this.props.history.goBack()
+	}
 	render() {
 		return(
 			<div>
-			{this.state.album.photos.id.map(view=>(
-				<img alt='z' src={"gallery"}/>
-				))}
-				
-			}
-			</div>
+				<button onClick={this.handleBack}>Back</button>
+				<img alt='z' src={this.state.photo.gallery}/>				
+			</div>	
 		)
-	}
-})
+	}	
+}
+	
+export default Single
